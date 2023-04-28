@@ -1,2 +1,12 @@
 # Cyclic_encryption_decryption
-Cyclic encryption &amp; decryption algorithm made with Matlab gui
+
+---
+<h3>
+Cyclic encryption &amp; decryption algorithm
+</h3>
+<h4>Made with</h4> 
+
+- Matlab 
+- gui
+
+---
